@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="w-full">
       <img
-        src={internship}
+        src={Internship}
         alt="Internship"
         className="w-full h-auto object-cover"
       />
