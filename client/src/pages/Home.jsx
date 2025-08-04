@@ -1,6 +1,6 @@
 // Home.jsx
 import React from 'react';
-import internship from '../assets/internship.png';
+import Internship from '../assets/Internship.png';
 
 const Home = () => {
   return (
