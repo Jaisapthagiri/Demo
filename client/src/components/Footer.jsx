@@ -8,6 +8,7 @@ const Footer = () => {
                     Connecting passionate learners with meaningful opportunities. Start your journey. Build your future.
                 </p>
             </div>
+            
             <div className="border-t border-[#3B1A7A]">
                 <div className="max-w-7xl mx-auto px-6 py-6 text-center text-sm font-normal">
                     <h2 className='text-white text-2xl'>Intern Career</h2> ©2025. All rights reserved.
