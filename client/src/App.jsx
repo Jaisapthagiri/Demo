@@ -7,7 +7,6 @@ import Registration from './pages/Registration';
 import Admin from './pages/Admin';
 import AdminView from './components/AdminView';
 import ProtectedRoute from './components/ProtectedRoute';
-import Footer from './components/Footer';
 
 function App() {
   return (
@@ -28,7 +27,6 @@ function App() {
           />
         </Route>
       </Routes>
-      <Footer />
     </>
   );
 }

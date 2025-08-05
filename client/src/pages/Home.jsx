@@ -1,6 +1,7 @@
 // Home.jsx
 import React from 'react';
 import Internship from '../assets/Internship.png';
+import Footer from '../components/Footer'
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
         alt="Internship"
         className="w-full h-auto object-cover"
       />
+      <Footer  />
     </div>
   );
 };

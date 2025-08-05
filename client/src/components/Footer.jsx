@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
     return (
-        <footer className="w-full bg-gradient-to-b from-[#1B004D] to-[#2E0A6F] text-white">
+        <footer className="w-full bg-gradient-to-b from-[#1B004D] mt-75 to-[#2E0A6F] text-white">
             <div className="max-w-7xl mx-auto px-6 py-16 flex flex-col items-center">
                 <p className="text-center max-w-xl text-sm font-normal leading-relaxed w-100">
                     Connecting passionate learners with meaningful opportunities. Start your journey. Build your future.
